@@ -1,3 +1,1 @@
-Cuarta actividad de Odin Project (recipes). En este, voy a construir una receta básica de un sitio web.
-El sitio web va a consistir en una página índice principal, el cual tendrá enlaces a algunas pocas recetas. El sitio web no se verá muy fachero cuando termine. A no ser que sea usuario de "brutalist web design".
-Es importante tener en mente que este proyecto es sólo armar tu base HTML; visitaremos nuevamente este proyecto en un futuro para estilizarlo con CSS.
+Cuarta actividad de Odin Project (recipes). 
